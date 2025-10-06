@@ -1,5 +1,8 @@
 Penguin Dataset Analysis Results
 ---------------------------------
-Total penguins: 344
-Penguins from Biscoe: 168 (48.84%)
+Rows with island+sex present: 344
+Male penguins from Biscoe: 83
+Percentage male from Biscoe: 24.13%
+
+Rows with a valid year: 344
 Average year: 2008.03
